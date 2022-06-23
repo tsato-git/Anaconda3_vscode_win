@@ -1,0 +1,10 @@
+japanize-matplotlib
+mecab-python3
+wordcloud
+imblearn
+moviepy
+opencv-python
+python-pptx
+python-docx
+pdfminer.six
+plotly
