@@ -1,4 +1,4 @@
-# Anaconda3_vscode_win
+## Anaconda3_vscode_win
 
 ### Python実習用の環境構築
 
@@ -11,4 +11,4 @@
 
 <p>.devcontainer<br>
 　┣ devcontainer.json　　　　　　※主にVSCodeでの設定（拡張機能など）を記述する<br>
-　┗ Dockerfile　　　　　　　　　　※コンテナ自体の設定</p>
+　┗ Dockerfile　　　　　　　　　※コンテナ自体の設定</p>
